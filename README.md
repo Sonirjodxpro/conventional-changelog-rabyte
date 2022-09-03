@@ -1,13 +1,7 @@
-<!--
- * Copyright © 2022 讯兔科技, All Rights Reserved.
- * 该代码受知识产权法律保护.如有侵权，讯兔科技保留采用法律手段追究法律责任的权利。
- * @Description   :
- * @Author        : sunjx01@rabyte.cn
- * @Date          : 2022-08-29 15:21:34
- * @LastEditors   : sunjinxiang sunjx01@rabyte.cn
- * @LastEditTime  : 2022-08-29 15:34:58
--->
 
+# 一个changelog 生成规范工具
+
+> author: sonirjodxpro@live.com
 
 - 使用 **redmine** 或者其他工具管理项目，可以将 GitHub/GitLab 的 **issues** 地址替换成 **bugsUrl** 中的地址
 - 显示 commit 对应的**提交人**及**邮箱地址**
